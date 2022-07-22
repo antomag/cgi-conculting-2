@@ -1,0 +1,25 @@
+.imgBackgroundTitle{
+    width: 100vw;
+    height: auto;
+    background-size:cover;
+}
+.containerTitle{
+    position: relative;
+    display: inline-block;
+}
+.titleSeccion{
+    letter-spacing: 1px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #ffffff;
+    font-size: 30px;
+}
+
+/* cambiar height y tamaño letra smartphone */
+@media only screen and (max-width: 750px) {
+    .titleSeccion{
+        font-size: 25px;
+    }
+}

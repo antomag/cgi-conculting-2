@@ -1,0 +1,23 @@
+section {
+    text-align: justify;
+}
+
+.imgOperators{
+    width: 100%;
+    height: auto;
+}
+
+.imgRack{
+    width: 100%;
+    height: auto;
+    margin-top: 2%;
+    border-radius: 15px;
+}
+
+.imgHelmets{
+    width: 100%;
+    height: auto;
+    margin-top: 2%;
+    margin-bottom: 5%;
+    border-radius: 15px;
+}
