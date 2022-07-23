@@ -35,24 +35,24 @@ const Projects = () => {
               <p className="p">Demolición total, transporte y eliminación de desmonte, remodelación, ampliación, redistribución de espacios y estructuras internas incluyendo maquinaria pesada y equipos livianos con sus implementos.</p>
             </div>
             <div className="scrollImg">
-              <img className="imgProjects" src={'/img/Proyectos/Nanka/1.JPG'} alt="primera imagen" />
-              <img className="imgProjects" src={'/img/Proyectos/Nanka/2.JPG'} alt="segunda imagen" />
-              <img className="imgProjects" src={'/img/Proyectos/Nanka/3.JPG'} alt="tercera imagen " />
-              <img className="imgProjects" src={'/img/Proyectos/Nanka/4.JPG'} alt="cuarta imagen" />
-              <img className="imgProjects" src={'/img/Proyectos/Nanka/5.JPG'} alt="quinta imagen" />
-              <img className="imgProjects" src={'/img/Proyectos/Nanka/6.JPG'} alt="sexta imagen" />
-              <img className="imgProjects" src={'/img/Proyectos/Nanka/7.JPG'} alt="septima imagen" />
-              <img className="imgProjects" src={'/img/Proyectos/Nanka/8.JPG'} alt="octava imagen" />
-              <img className="imgProjects" src={'/img/Proyectos/Nanka/9.JPG'} alt="novena imagen" />
-              <img className="imgProjects" src={'/img/Proyectos/Nanka/10.JPG'} alt="decima imagen" />
-              <img className="imgProjects" src={'/img/Proyectos/Nanka/11.JPG'} alt="decimoprimera imagen" />
-              <img className="imgProjects" src={'/img/Proyectos/Nanka/12.JPG'} alt="decimosegunda imagen" />
-              <img className="imgProjects" src={'/img/Proyectos/Nanka/13.JPG'} alt="decimotercera imagen " />
-              <img className="imgProjects" src={'/img/Proyectos/Nanka/15.JPG'} alt="decimocuarta imagen" />
-              <img className="imgProjects" src={'/img/Proyectos/Nanka/16.JPG'} alt="decimoquinta imagen" />
-              <img className="imgProjects" src={'/img/Proyectos/Nanka/18.JPG'} alt="decimosexta imagen" />
-              <img className="imgProjects" src={'/img/Proyectos/Nanka/19.JPG'} alt="decimoseptima imagen" />
-              <img className="imgProjects" src={'/img/Proyectos/Nanka/20.JPG'} alt="decimooctava imagen" />
+              <img className="imgProjects" src={'/img/Proyectos/Nanka/1.jpg'} alt="primera imagen" />
+              <img className="imgProjects" src={'/img/Proyectos/Nanka/2.jpg'} alt="segunda imagen" />
+              <img className="imgProjects" src={'/img/Proyectos/Nanka/3.jpg'} alt="tercera imagen " />
+              <img className="imgProjects" src={'/img/Proyectos/Nanka/4.jpg'} alt="cuarta imagen" />
+              <img className="imgProjects" src={'/img/Proyectos/Nanka/5.jpg'} alt="quinta imagen" />
+              <img className="imgProjects" src={'/img/Proyectos/Nanka/6.jpg'} alt="sexta imagen" />
+              <img className="imgProjects" src={'/img/Proyectos/Nanka/7.jpg'} alt="septima imagen" />
+              <img className="imgProjects" src={'/img/Proyectos/Nanka/8.jpg'} alt="octava imagen" />
+              <img className="imgProjects" src={'/img/Proyectos/Nanka/9.jpg'} alt="novena imagen" />
+              <img className="imgProjects" src={'/img/Proyectos/Nanka/10.jpg'} alt="decima imagen" />
+              <img className="imgProjects" src={'/img/Proyectos/Nanka/11.jpg'} alt="decimoprimera imagen" />
+              <img className="imgProjects" src={'/img/Proyectos/Nanka/12.jpg'} alt="decimosegunda imagen" />
+              <img className="imgProjects" src={'/img/Proyectos/Nanka/13.jpg'} alt="decimotercera imagen " />
+              <img className="imgProjects" src={'/img/Proyectos/Nanka/15.jpg'} alt="decimocuarta imagen" />
+              <img className="imgProjects" src={'/img/Proyectos/Nanka/16.jpg'} alt="decimoquinta imagen" />
+              <img className="imgProjects" src={'/img/Proyectos/Nanka/18.jpg'} alt="decimosexta imagen" />
+              <img className="imgProjects" src={'/img/Proyectos/Nanka/19.jpg'} alt="decimoseptima imagen" />
+              <img className="imgProjects" src={'/img/Proyectos/Nanka/20.jpg'} alt="decimooctava imagen" />
             </div>
           </section>
       <Footer/>
