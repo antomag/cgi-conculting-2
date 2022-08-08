@@ -1,5 +1,5 @@
 .containerFooter{
-    width: 100vw;
+    width: 100%;
     height: auto;
     background: linear-gradient(100.66deg, rgba(8, 63, 26, 0.86) 23.13%, rgba(8, 63, 26, 0.92) 23.14%, rgba(8, 63, 26, 0.86) 23.14%, rgba(8, 63, 26, 0.86) 43.82%, #056EA5 95.16%);
     display: grid;
@@ -9,7 +9,7 @@
 }
 .cgi{
     grid-column: 1/2;
-    margin: 3%;
+    /* margin: 3%; */
     letter-spacing: 1px;
     font-size: 70%;
     color:white;
@@ -18,7 +18,7 @@
 }
 .contactUs{
     grid-column: 2/3;
-    margin: 3%;
+    /* margin: 3%; */
     letter-spacing: 1px;
     font-size: 70%;
     color:white;
@@ -26,7 +26,7 @@
 }
 .services_footer{
     grid-column: 3/4;
-    margin: 3%;
+    /* margin: 3%; */
     letter-spacing: 1px;
     font-size: 70%;
     color:white;
@@ -78,7 +78,7 @@ a{
     }
     .line{
         grid-column: 1/2;
-        width: 100vw;
+        width: 100%;
     }
     .copyright{
         grid-column: 1/2;

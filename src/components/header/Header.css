@@ -1,25 +1,15 @@
-.imgBackgroundTitle{
-    width: 100vw;
-    height: auto;
-    background-size:cover;
-}
 .containerTitle{
-    position: relative;
-    display: inline-block;
-}
-.titleSeccion{
-    letter-spacing: 1px;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    color: #ffffff;
-    font-size: 30px;
+    width: 100%;
+    background-image: url("/img/fondo-titulo.png");
+    color: #fff;
+    text-align: center;
 }
 
-/* cambiar height y tamaño letra smartphone */
+.containerTitle h1{
+    padding: 1rem;
+}
 @media only screen and (max-width: 750px) {
-    .titleSeccion{
+    .containerTitle h1{
         font-size: 25px;
     }
 }
