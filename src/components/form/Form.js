@@ -6,7 +6,7 @@ const Form = () => {
   return (
     <Container>
       <h1 className='titleForm'>Comunícate con nosotros</h1>
-      <form action="https://formsubmit.co/gmolfino@cgi-peru.com" method="POST" className='containerInputs'>
+      <form action="https://formsubmit.co/info@cgiconsulting.co" method="POST" className='containerInputs'>
         <TextField className="outlined-basic-nombre" label="Nombre" name="Nombre" variant="outlined" type="text" required/>
         <TextField className="outlined-basic-correo" label="Correo Electronico" name="email" variant="outlined" type="email" required/>
         <TextField className="outlined-basic-tel" label="Telefono" name="Telefono" variant="outlined" type="tel" required/>
